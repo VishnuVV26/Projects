@@ -1,0 +1,40 @@
+.img2 {
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.abt-page {
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: 400;
+}
+
+.abt-content {
+    color: black;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.vision,
+.mission,
+.values {
+    flex: 1;
+    max-width: 350px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    font-size: large;
+    text-align: center;
+}
+
+.abt-head {
+    color: black;
+}
+
+.values ul {
+    list-style-type: square;
+}

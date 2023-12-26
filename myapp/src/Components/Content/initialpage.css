@@ -1,0 +1,13 @@
+.building-img {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.heading-p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: 900;
+    background-color: black;
+    color: white;
+}
