@@ -50,6 +50,15 @@ body {
 
 /* Optional: Add styles for placeholder text */
 .search-box::placeholder {
-  color: #aaa;
+  color: #0206fb;
   /* Set placeholder text color */
+}
+.tabledata,.form-user{
+  flex:1;
+  max-width: 300px;
+  justify-content: center;
+  text-align: center;
+}
+::placeholder{
+  color: rgb(0, 0, 0);
 }
