@@ -1,0 +1,53 @@
+.page-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Times New Roman', Times, serif;
+  }
+.login-container{
+    background-image: url("./Images/Vijay 3.jpg");
+    background-size:cover;
+    background-position:contain;
+    color: rgb(19, 22, 180);
+     border-radius: 8px;
+    box-shadow: 0 0 10px rgb(255, 255, 255);
+    padding: 20px;
+    width: 300px;
+    height: 300px;
+}
+.login-page {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .login-page label {
+    margin-bottom: 5px;
+  }
+  
+  .login-page input {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+  }
+  
+.lgn-btn {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+.error{
+    color: red;
+}
+.inputarea1{
+    background: none;
+} 

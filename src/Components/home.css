@@ -1,0 +1,16 @@
+body{
+    padding: 0%;
+    background-color: rgb(154, 212, 226);
+}
+.image1
+{
+    padding-top: 1px;
+    
+}
+.home-content{
+    color: rgb(19, 22, 180);
+    font-family:'Times New Roman', Times, serif ;
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+}
