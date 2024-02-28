@@ -15,7 +15,7 @@ const Navbar = () => {
 const count=0;
 
   return (
-    <header>
+    <header className='bg-gray-200'>
     <div className='py-2 px-2 md:px-6 flex '>
         <div className='py-2 px-4 md:px-8 md:flex gap-1'>
             <img src={logo_image} alt='' className='w-14 h-12 md:w-32 md:h-28'/>
